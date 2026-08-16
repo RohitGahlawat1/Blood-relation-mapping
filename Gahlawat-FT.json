@@ -1,0 +1,85 @@
+[
+  {
+    "id": "m_j5dn809msuprt05",
+    "name": "Rohit Gahlawat",
+    "gender": "male",
+    "dob": "2001-01-01",
+    "dod": "",
+    "notes": "Village -Guhna (Sonipat)",
+    "parents": ["m_9groi02msvmgyk6"],
+    "spouses": [],
+    "otherSpouses": []
+  },
+  {
+    "id": "m_h8zyladmsuptnpy",
+    "name": "Mohit Gahlawat",
+    "gender": "male",
+    "birthYear": "1996",
+    "deathYear": "",
+    "notes": "village-Guhna (Sonipat)",
+    "parents": ["m_9groi02msvmgyk6"],
+    "spouses": ["m_f6gjbgxmsvowff6"],
+    "dob": "1996-01-01",
+    "dod": "",
+    "otherSpouses": []
+  },
+  {
+    "id": "m_9groi02msvmgyk6",
+    "name": "Dilbag Singh",
+    "gender": "male",
+    "birthYear": "1970",
+    "deathYear": "",
+    "notes": "Village,Guhna (Sonipat) Haryana",
+    "parents": ["m_g4r1w0emsvml5y1", "m_8h6pqxqmsvmmq0z"],
+    "spouses": ["m_kgqeoihmsvoujtb"],
+    "dob": "1970-01-01",
+    "dod": "",
+    "otherSpouses": []
+  },
+  {
+    "id": "m_g4r1w0emsvml5y1",
+    "name": "Capt. Randhir Singh",
+    "gender": "male",
+    "birthYear": "1938",
+    "deathYear": "",
+    "notes": "Village,Guhna,Farmana Tehsil (Sonipat)",
+    "parents": [],
+    "spouses": ["m_8h6pqxqmsvmmq0z"],
+    "dob": "1938-01-01",
+    "dod": "",
+    "otherSpouses": []
+  },
+  {
+    "id": "m_8h6pqxqmsvmmq0z",
+    "name": "Prem Devi",
+    "gender": "female",
+    "dob": "1940-01-01",
+    "dod": "",
+    "notes": "Village,Sanghi,Rohtak,Haryana",
+    "parents": [],
+    "spouses": ["m_g4r1w0emsvml5y1"],
+    "otherSpouses": []
+  },
+  {
+    "id": "m_kgqeoihmsvoujtb",
+    "name": "Babli",
+    "gender": "female",
+    "dob": "1976-01-01",
+    "dod": "",
+    "notes": "Village ,Bhaprodha (Jhajjar),Haryana",
+    "parents": [],
+    "spouses": ["m_9groi02msvmgyk6"],
+    "otherSpouses": []
+  },
+  {
+    "id": "m_f6gjbgxmsvowff6",
+    "name": "Anjali",
+    "gender": "female",
+    "dob": "2003-07-18",
+    "dod": "",
+    "notes": "Village,Bade Bahu (Bahu Aakbarpur),Rohtak,Haryana",
+    "parents": [],
+    "spouses": ["m_h8zyladmsuptnpy"],
+    "otherSpouses": []
+  }
+]
